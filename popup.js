@@ -15,8 +15,8 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       console.log("AAAAAAA");
   
-      const MAX_ITER = 5;
-      const TOKENS = 100;
+      const MAX_ITER = 3;
+      const TOKENS = 200;
       let i = MAX_ITER;
       let finish_reason = 'length';
       let explanation = '';
