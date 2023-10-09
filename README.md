@@ -1,4 +1,4 @@
-# ChatGPT Explainer Chrome Extension ![Logo](images/icon128.png)
+# ChatGPT Explainer Chrome Extension ![Logo](images/icon64.png)
 
 This Chrome extension uses the ChatGPT API from OpenAI to generate explanations for selected text on webpages.
 
