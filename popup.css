@@ -1,0 +1,23 @@
+body {
+    width: 300px;
+    padding: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007acc;
+    color: white;
+    border: none;
+  }
+  
+  #explanation {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
